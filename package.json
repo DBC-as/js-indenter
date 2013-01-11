@@ -1,0 +1,13 @@
+{
+  "name": "js-indenter",
+  "version": "0.0.1",
+  "author": "DBC / rje",
+  "homepage": "http://github.com/dbc-as/js-indenter",
+  "description": "script for indenting javascript containing e4x",
+  "dependencies": {
+  },
+  "scripts": {
+      "test": "node test/runner.js && diff test/sample.js.expected test/sample.js.out"
+  },
+  "engines": {"node": "*"}
+}
