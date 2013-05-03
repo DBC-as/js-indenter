@@ -1,1 +1,1 @@
-# Moved to https://github.com/DBCDK/js-indenter
+# Deprecated, use https://github.com/einars/js-beautify instead
